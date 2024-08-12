@@ -4,7 +4,11 @@ const Navbar = () => {
   return (
     <div>
         <div className=''>
-        <h1>Moses</h1>
+         <div className="">
+            <div className="">
+                <h1></h1>
+            </div>
+         </div>
         </div>
       
     </div>
